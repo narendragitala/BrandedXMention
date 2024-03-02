@@ -36,13 +36,13 @@ async def start(event):
     
     await event.client.send_file(
         event.chat_id,
-        file="https://te.legra.ph/file/c51f9d5400b4d1e2dce09.jpg",
+        file="https://telegra.ph/file/65be9b1dadf23f2d31012.jpg",
         caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴀʟᴇxᴀ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [ʙʀᴀɴᴅᴇᴅ ʙᴏᴛ](https://t.me/BRANDRD_BOT)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [ʙʀᴀɴᴅᴇᴅ ʜᴇʟᴘ](https://t.me/BRANDED_WORLD)┓\n┣★ ʀᴇᴘᴏ › : [ʙʀᴀɴᴅᴇᴅ ʀᴇᴘᴏ](https://github.com/WCGKING/BrandedXMention)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/BRANDEDKING82) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=[
-            [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "https://t.me/Branded_MentionBot?startgroup=true")],
-            [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/BRANDED_WORLD"), Button.url("❤️‍🔥 ᴄʜᴀɴɴᴇʟ 💫", "https://t.me/BRANDRD_BOT")],
-            [Button.url("❤️‍🔥 ʜᴇʀᴜᴋᴏ ᴄᴄ 💫", "https://t.me/BRANDED_PAID_CC"), Button.url("❤️‍🔥 BRANDED ❤️‍🔥", "https://t.me/BRANDEDKING82")]
+            [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "https://t.me/shayrigalibki")],
+            [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/shayrigalibki"), Button.url("❤️‍🔥 ᴄʜᴀɴɴᴇʟ 💫", "https://t.me/all_about_naru")],
+            [Button.url("❤️‍🔥 JOIN NOW 💫", "https://t.me/brokenshayri1"), Button.url("❤️‍🔥 Narujaat ❤️‍🔥", "https://t.me/all_about_naru")]
         ]
     )
 
@@ -58,8 +58,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/BRANDED_WORLD"),
-                Button.url("❤️‍🔥 ʏᴏᴜᴛᴜʙᴇ 💫", "https://youtube.com/@TrickyBranded?si=LiWu6DkLNs4bcZn6"),
+                Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/all_about_naru"),
+                Button.url("❤️‍🔥 ʏᴏᴜᴛᴜʙᴇ 💫", "https://youtube.com/@mohitdahiyaclasses?si=qb6h-WUF-NFbXKeP"),
             ]
         ),
     )
@@ -76,8 +76,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/BRANDED_WORLD"),
-                Button.url("❤️‍🔥 ʏᴏᴜᴛᴜʙᴇ 💫", "https://youtube.com/TrickyBranded"),
+                Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/brokenshayri1"),
+                Button.url("❤️‍🔥 ʏᴏᴜᴛᴜʙᴇ 💫", "https://youtube.com/@mohitdahiyaclasses?si=qb6h-WUF-NFbXKeP"),
             ]
         ),
     )
