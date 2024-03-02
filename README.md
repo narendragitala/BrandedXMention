@@ -2,7 +2,7 @@
 
 <h4 align="center">BRANDED MENTION A Powerful, Smart And Simple And Smart Mention Bot <br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://t.me/BRANDEDKING82"><img src="https://te.legra.ph/file/3b3c01623a1a7b3774571.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/brokenshayri1"><img src="https://telegra.ph/file/ee3ad54eb859ae9375b2d.jpg" width="400"></a></p>
 
 <p align="center">
     
